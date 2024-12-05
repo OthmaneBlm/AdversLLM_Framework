@@ -3,3 +3,15 @@ numpy
 pandas
 fastapi
 fastapi-cli
+anyio
+beautifulsoup4
+boto3
+botocore
+certifi
+charset-normalizer
+click
+colorama
+distro
+dnspython
+email_validator
+openai
