@@ -1,3 +1,4 @@
 pyramid==2.0
 numpy
+pandas
 
